@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Моя перша сторінка</title>
+</head>
+<body>
+<div align="center">
+<b>Добрий день </b>
+<br>
+Ласкаво прошу :) </div>
+<p aling="justify">
+Я зовсім нещодавно почала створювати інтернет-сторінки
+</p>
+<FONT FACE="COURIER" SIZE="+2" COLOUR="red">Заходьте на мою сторінку</FONT>
+<body>
+</html>
